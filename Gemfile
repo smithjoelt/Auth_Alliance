@@ -47,14 +47,7 @@ gem "bootsnap", require: false
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
   gem "debug", platforms: %i[ mri windows ]
-<<<<<<< HEAD
   gem 'rubocop', require: false
-=======
-<<<<<<< HEAD
-=======
-  gem 'rubocop', require: false
->>>>>>> ecf802b (Initial commit)
->>>>>>> refs/remotes/origin/main
 end
 
 group :development do
